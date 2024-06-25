@@ -1,0 +1,22 @@
+header .menu-header li:last-child {
+  border-radius: 50% !important;
+  height: 40px;
+  width: 50px;
+  padding: 0;
+}
+
+header .menu-header li img.avatar {
+  position: absolute;
+  left: 3px;
+  top: 3px;
+  width: 34px;
+  border-radius: 50%;
+}
+
+main {
+  margin-top: 100px;
+}
+
+.icon-search {
+  width: 20px;
+}
